@@ -1,3 +1,7 @@
+## 0.11.2
+
+- Added main to DOM components.
+
 ## 0.11.1
 
 - Fixed bug with base paths.
